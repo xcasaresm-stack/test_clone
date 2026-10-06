@@ -1,1 +1,1 @@
-Print("Hola")
+Print("Hola from server")
